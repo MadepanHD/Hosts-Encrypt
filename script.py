@@ -97,7 +97,7 @@ def otherhosts():
 class main:
     print("[S] Hosts Encrypt by MadepanHD")
     print("""
-[+]=======[ Layer 7 ]=======[+]=======[ Layer 4 ]=======[+]
+[+]=====================================================[+]
             1: Server_data.php      [ Growtopia ]
             2: Game Server     [ Other ] 
 [+]=====================================================[+]
